@@ -9,12 +9,12 @@
   ],
   "class": "race",
   "specs": {
-    "bhp": "69 bhp",
-    "torque": "59 Nm",
-    "weight": "243 kg",
-    "topspeed": "145 km/h",
-    "acceleration": "0-100km/h in 4.0s",
-    "pwratio": "3.52 kg/hp",
+    "bhp": "82 bhp",
+    "torque": "58 Nm",
+    "weight": "___ kg",
+    "topspeed": "118 km/h",
+    "acceleration": "0-100km/h in ___s",
+    "pwratio": "___ kg/hp",
     "range": 185
   },
   "torqueCurve": [
