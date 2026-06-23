@@ -3,13 +3,9 @@
   "brand": "uOttawa Formula Team",
   "description": "Simple Sim thing",
   "tags": [
-    "#FS",
     "rwd",
     "race",
     "singleseater",
-    "Spain",
-    "UC3M",
-    "MADFT"
   ],
   "class": "race",
   "specs": {
@@ -1073,9 +1069,9 @@
       65.3069309630276
     ]
   ],
-  "country": "Spain",
-  "author": "MAD Formula Team",
-  "version": "1.9 Final",
-  "url": "madformulateam.com",
-  "year": 2020
+  "country": "Canada",
+  "author": "uOttawa Formula Team",
+  "version": "0.1",
+  "url": "uottawa.ca",
+  "year": 2027
 }
